@@ -29,6 +29,6 @@
 
 ### 📫 Let's Connect
 
-📧 Email: bishow03@gmail.com  
+📧 Email: bi**********1@gmail.com  
 🔗 GitHub: [github.com/BISHOW03](https://github.com/BISHOW03)
 
