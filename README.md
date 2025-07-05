@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Bishow 👨‍💻
 
-🎓 BSc CSIT student at Tribhuvan University (2nd Semester)  
+🎓 BSc CSIT student at Tribhuvan University  
 🌱 Currently learning **Web Development**, **AI**, and **Machine Learning**  
 🛠️ I love building projects using **HTML**, **CSS**, **JavaScript**, and **Python**  
 📈 Working on stock price prediction using LSTM & NEPSE data  
