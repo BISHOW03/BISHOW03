@@ -23,7 +23,6 @@
 ## 📊 GitHub Stats
 
 ![Bishow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BISHOW03&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BISHOW03&layout=compact&theme=tokyonight)
 
 ### 📫 Let's Connect
