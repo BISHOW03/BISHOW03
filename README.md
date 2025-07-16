@@ -1,11 +1,11 @@
 # 👋 Hi there! I'm Bishow 👨‍💻
 
 🎓 BSc CSIT student at Tribhuvan University  
-🌱 Currently learning **Web Development**, **AI**, and **Machine Learning**  
-🛠️ I love building projects using **HTML**, **CSS**, **JavaScript**, and **Python**  
-📈 Working on stock price prediction using LSTM & NEPSE data  
-🌐 Check out my first live project: [Digital Clock](https://bishow03.github.io/digital-clock/)  
-💡 Always open to learning and collaboration
+🌱 Passionate about **Web Development**, **AI**, and **Machine Learning**  
+🛠️ Currently building projects using **HTML**, **CSS**, **JavaScript**, and **Python**  
+📈 Working on a **Stock Price Predictor** using **LSTM** and real-time **NEPSE** data  
+🌐 Explore my first live project: [Digital Clock ⏰](https://bishow03.github.io/digital-clock/)  
+🤝 Open to learning, collaboration, and building impactful projects
 
 ---
 
@@ -17,6 +17,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BISHOW03&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+---
+
+## 👁️ Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=BISHOW03&style=flat-square&color=blue)
 
 ---
 
