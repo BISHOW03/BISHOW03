@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Bishow's banner" />
+</p>
+
+
 # 👋 Hi there! I'm Bishow 👨‍💻
 
 🎓 BSc CSIT student at Tribhuvan University  
