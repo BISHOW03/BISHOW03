@@ -2,7 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=BISHOW03&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-#  👋 Hi there! I'm Bishow 👨‍💻
+<div align="center">
+
+# 👋 Hi there! I'm Bishow 👨‍💻
+
+</div>
+
 
 
 
