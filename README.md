@@ -1,4 +1,10 @@
-# 👋 Hi there! I'm Bishow 👨‍💻
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=BISHOW03&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+#  👋 Hi there! I'm Bishow 👨‍💻
+
+
 
 🎓 BSc CSIT student at Tribhuvan University  
 🌱 Passionate about **Web Development**, **AI**, and **Machine Learning**  
@@ -22,13 +28,12 @@
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BISHOW03&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=BISHOW03&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
 
----
-
-## 👁️ Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=BISHOW03&style=flat-square&color=blue)
 
 ---
 
