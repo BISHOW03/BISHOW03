@@ -50,5 +50,5 @@
 ### 📫 Let's Connect
 
 📧 Email: bishowghi2061@gmail.com  
-🔗 GitHub: [github.com/BISHOW03](https://github.com/BISHOW03)
+🔗 GitHub: 
 
